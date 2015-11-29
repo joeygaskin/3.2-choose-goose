@@ -1,4 +1,4 @@
-// 3.2.-Choose-Goose-Homework
+// 3.2.-Choose-Goose-Project
 document.querySelector("#update-button").addEventListener('click', function() {
 
 var thimbles = Number(document.getElementById("thimbles").value);
